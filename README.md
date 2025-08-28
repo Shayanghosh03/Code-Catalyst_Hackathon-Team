@@ -3,16 +3,23 @@
 Welcome to **Code Catalyst**, a team of passionate innovators, problem solvers, and tech enthusiasts.  
 We are participating in [Hackathon Name/Year], with the mission to build impactful solutions that create real change.  
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/08cc2477-4c8d-4f7a-8b8c-0030ad59bcd9" />
+
+## 🌐 Live Link
+https://codecatalyst01.netlify.app/
+
 ---
 
 ## 👥 Our Team  
 
 - **Shayan Ghosh** – Team Lead  
   *Guides the team, manages project flow, and ensures smooth coordination.*
+  
   🔗 **LinkedIn**: https://www.linkedin.com/in/shayan-ghosh-0834b3271/
 
 - **Shwetank Rai** – Co-Lead  
   *Supports leadership, handles technical decisions, and assists in mentoring team members.*
+  
   🔗 **LinkedIn**: https://www.linkedin.com/in/shwetank-rai-8007a5279
 
 
